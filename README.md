@@ -1,4 +1,5 @@
 # lexpress
+### which news topics are most popular by date ?
 
 Personal project with scraping and nlp for practice.
 My goal here is to scrap the text of all articles from this link : https://lexpresskiosk.milibris.com/l-express/l-express/ and then use nlp to get the 5 most frequent sequences of two words for each article. 
